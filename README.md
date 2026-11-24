@@ -1,0 +1,2 @@
+# Ada-cizim
+Ada cizim
